@@ -15,7 +15,5 @@
   "env": {
     "MONGODB_URI": "mongodb+srv://saichandrasomagani:9T4vNmSxaxIABRQu@cluster0.r3icxzo.mongodb.net/?retryWrites=true&w=majority"
   },
-  "dev": {
-    "ignore": ["node_modules"]
-  }
+
 }
